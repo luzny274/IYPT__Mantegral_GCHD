@@ -1,0 +1,58 @@
+\babel@toc {czech}{}
+\contentsline {paragraph}{}{0}{section*.1}
+\contentsline {paragraph}{}{0}{section*.2}
+\contentsline {paragraph}{}{0}{section*.3}
+\contentsline {section}{\numberline {1}\IeC {\'U}vod}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Zad\IeC {\'a}n\IeC {\'\i }}{2}{subsection.1.1}
+\contentsline {paragraph}{6. Saxon Bowl}{2}{section*.5}
+\contentsline {paragraph}{6. Sask\IeC {\'a} miska}{2}{section*.6}
+\contentsline {subsection}{\numberline {1.2}Vymezen\IeC {\'\i } obsahu \IeC {\v r}e\IeC {\v s}en\IeC {\'\i } \IeC {\'u}lohy}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Experiment\IeC {\'a}ln\IeC {\'\i } \IeC {\v c}\IeC {\'a}st}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}D\IeC {\r u}le\IeC {\v z}it\IeC {\'a} \IeC {\'u}vodn\IeC {\'\i } pozorov\IeC {\'a}n\IeC {\'\i }}{3}{subsection.2.1}
+\contentsline {paragraph}{Prvn\IeC {\'\i } experimenty}{3}{section*.7}
+\contentsline {subsection}{\numberline {2.2}Vlastn\IeC {\'\i } m\IeC {\v e}\IeC {\v r}en\IeC {\'\i }}{3}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}V\IeC {\'a}lec}{4}{subsubsection.2.2.1}
+\contentsline {paragraph}{M\IeC {\v e}n\IeC {\v e}n\IeC {\'\i } pr\IeC {\r u}\IeC {\v r}ezu d\IeC {\'\i }ry a hmotnosti n\IeC {\'a}doby}{4}{section*.8}
+\contentsline {paragraph}{M\IeC {\v e}n\IeC {\v e}n\IeC {\'\i } "D\IeC {\'e}lky" d\IeC {\'\i }ry}{4}{section*.9}
+\contentsline {subsubsection}{\numberline {2.2.2}Trycht\IeC {\'y}\IeC {\v r}e}{4}{subsubsection.2.2.2}
+\contentsline {paragraph}{M\IeC {\v e}n\IeC {\v e}n\IeC {\'\i } pr\IeC {\r u}\IeC {\v r}ezu d\IeC {\'\i }ry a hmotnosti n\IeC {\'a}doby}{4}{section*.10}
+\contentsline {section}{\numberline {3}Teoretick\IeC {\'a} \IeC {\v c}\IeC {\'a}st}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Obecn\IeC {\'y} \IeC {\'u}vod}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Zkontrolov\IeC {\'a}n\IeC {\'\i } n\IeC {\v e}kter\IeC {\'y}ch vztah\IeC {\r u}}{6}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}M\IeC {\v e}\IeC {\v r}en\IeC {\'\i } v\IeC {\'y}tokov\IeC {\'e}ho koeficientu}{6}{subsubsection.3.2.1}
+\contentsline {subparagraph}{}{6}{section*.16}
+\contentsline {paragraph}{}{7}{section*.17}
+\contentsline {paragraph}{}{7}{section*.18}
+\contentsline {paragraph}{}{7}{section*.19}
+\contentsline {subsubsection}{\numberline {3.2.2}Z\IeC {\'a}v\IeC {\v e}r m\IeC {\v e}\IeC {\v r}en\IeC {\'\i } v\IeC {\'y}tokov\IeC {\'e}ho koeficientu}{8}{subsubsection.3.2.2}
+\contentsline {paragraph}{\IeC {\textbullet }}{8}{section*.20}
+\contentsline {paragraph}{\IeC {\textbullet }}{8}{section*.21}
+\contentsline {paragraph}{\IeC {\textbullet }}{8}{section*.22}
+\contentsline {subsection}{\numberline {3.3}Fin\IeC {\'a}ln\IeC {\'\i } vztahy pro p\IeC {\v r}edpov\IeC {\v e}zen\IeC {\'y} \IeC {\v c}as}{9}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Pro v\IeC {\'a}lec}{9}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Pro trycht\IeC {\'y}\IeC {\v r}e}{9}{subsubsection.3.3.2}
+\contentsline {subsection}{\numberline {3.4}Porovn\IeC {\'a}n\IeC {\'\i } v\IeC {\'y}sledk\IeC {\r u}}{10}{subsection.3.4}
+\contentsline {paragraph}{\IeC {\textbullet }}{11}{section*.23}
+\contentsline {section}{\numberline {4}Z\IeC {\'a}v\IeC {\v e}r a diskuze}{12}{section.4}
+\contentsline {subsection}{\numberline {4.1}Objasn\IeC {\v e}n\IeC {\'\i } nep\IeC {\v r}esnost\IeC {\'\i } a odchylek}{12}{subsection.4.1}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.24}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.25}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.26}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.27}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.28}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.29}
+\contentsline {subsection}{\numberline {4.2}Rekapitulace dosa\IeC {\v z}en\IeC {\'y}ch v\IeC {\'y}sledk\IeC {\r u}}{12}{subsection.4.2}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.30}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.31}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.32}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.33}
+\contentsline {subsection}{\numberline {4.3}N\IeC {\'a}m\IeC {\v e}ty na budouc\IeC {\'\i } v\IeC {\'y}zkum}{12}{subsection.4.3}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.34}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.35}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.36}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.37}
+\contentsline {paragraph}{\IeC {\textbullet }}{12}{section*.38}
+\contentsline {section}{\numberline {5}Odvozen\IeC {\'\i } vztahu z 3. odd\IeC {\v e}len\IeC {\'\i }.}{13}{section.5}
+\contentsline {subsection}{\numberline {5.1}Pro v\IeC {\'a}lec}{13}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Pro trycht\IeC {\'y}\IeC {\v r}}{14}{subsection.5.2}
+\contentsline {section}{\numberline {6}Pou\IeC {\v z}it\IeC {\'a} literatura}{16}{section.6}

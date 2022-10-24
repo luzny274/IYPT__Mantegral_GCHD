@@ -1,0 +1,32 @@
+\babel@toc {english}{}
+\contentsline {paragraph}{}{0}{section*.1}% 
+\contentsline {paragraph}{}{0}{section*.2}% 
+\contentsline {paragraph}{}{0}{section*.3}% 
+\contentsline {section}{\numberline {1}Problem}{2}{section.1}% 
+\contentsline {section}{\numberline {2}Introduction}{2}{section.2}% 
+\contentsline {section}{\numberline {3}Magnetic forces}{2}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}1 point dipole in flea and 1 in stirrer}{2}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}1 point dipole in flea and 2 in stirrer}{3}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Model validation}{5}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}Magnetic forces - summary}{6}{subsection.3.4}% 
+\contentsline {section}{\numberline {4}Drag forces in viscous fluids}{6}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Theoretical model of drag force and drag moment}{6}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Glycerol parameters}{7}{subsection.4.2}% 
+\contentsline {section}{\numberline {5}Theoretical explanation and simulation}{7}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Qualitative analysis}{7}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Quantitative analysis}{7}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Determination of constants}{8}{subsection.5.3}% 
+\contentsline {section}{\numberline {6}Comparison of simulation and experiments}{8}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}Flea trajectory}{8}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}Levitation height}{9}{subsection.6.2}% 
+\contentsline {subsection}{\numberline {6.3}Angular velocity constraints}{9}{subsection.6.3}% 
+\contentsline {subsection}{\numberline {6.4}Sucrose solution}{10}{subsection.6.4}% 
+\contentsline {section}{\numberline {7}Additional observations}{10}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}Upper limit of viscosity}{10}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7.2}Changing flea size}{10}{subsection.7.2}% 
+\contentsline {subsection}{\numberline {7.3}Approximation to $ \qopname \relax o{sin}(x) + x $}{10}{subsection.7.3}% 
+\contentsline {subsection}{\numberline {7.4}Lissajous figures for this system}{11}{subsection.7.4}% 
+\contentsline {section}{\numberline {8}Conclusion}{11}{section.8}% 
+\contentsline {subsection}{\numberline {8.1}Summary of achieved results}{11}{subsection.8.1}% 
+\contentsline {subsection}{\numberline {8.2}Further research}{11}{subsection.8.2}% 
+\contentsline {section}{\numberline {9}Nomenclature}{12}{section.9}% 
